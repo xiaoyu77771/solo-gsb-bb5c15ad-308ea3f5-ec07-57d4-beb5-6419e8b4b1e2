@@ -1,0 +1,13 @@
+{"ts": "2026-09-22T07:59:55.139867Z", "label": "POWER_ON", "device": "plc-07"}
+{"ts": "2026-09-22T08:00:04.759464Z", "label": "VALVE_OPEN", "device": "plc-07"}
+{"ts": "2026-09-22T08:00:34.246234Z", "label": "MOTOR_START", "device": "plc-07"}
+{"ts": "2026-09-22T08:00:53.838532Z", "label": "SENSOR_PING", "device": "plc-07"}
+{"ts": "2026-09-22T08:01:20Z", "label": "SENSOR_NOISE", "device": "plc-07"}
+{"ts": "2026-09-22T08:01:52.816039Z", "label": "SENSOR_PING", "device": "plc-07"}
+{"ts": "2026-09-22T08:02:20.869336Z", "label": "HEAT_ON", "device": "plc-07"}
+{"ts": "2026-09-22T08:02:51.546225Z", "label": "SENSOR_PING", "device": "plc-07"}
+{"ts": "2026-09-22T08:03:11.712816Z", "label": "VALVE_CLOSE", "device": "plc-07"}
+{"ts": "2026-09-22T08:03:42.425556Z", "label": "COOLING_ON", "device": "plc-07"}
+{"ts": "2026-09-22T08:04:10Z", "label": "MAINT_LOG", "device": "plc-07"}
+{"ts": "2026-09-22T08:04:12.920164Z", "label": "MOTOR_STOP", "device": "plc-07"}
+{"ts": "2026-09-22T08:04:53.793142Z", "label": "POWER_OFF", "device": "plc-07"}

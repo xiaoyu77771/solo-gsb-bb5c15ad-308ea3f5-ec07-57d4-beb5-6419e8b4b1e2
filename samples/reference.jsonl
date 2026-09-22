@@ -1,0 +1,12 @@
+{"ts": "2026-09-22T08:00:00Z", "label": "POWER_ON", "line": "line-A"}
+{"ts": "2026-09-22T08:00:10Z", "label": "VALVE_OPEN", "line": "line-A"}
+{"ts": "2026-09-22T08:00:25Z", "label": "PRESSURE_OK", "line": "line-A"}
+{"ts": "2026-09-22T08:00:40Z", "label": "MOTOR_START", "line": "line-A"}
+{"ts": "2026-09-22T08:01:00Z", "label": "SENSOR_PING", "line": "line-A"}
+{"ts": "2026-09-22T08:02:00Z", "label": "SENSOR_PING", "line": "line-A"}
+{"ts": "2026-09-22T08:02:30Z", "label": "HEAT_ON", "line": "line-A"}
+{"ts": "2026-09-22T08:03:00Z", "label": "SENSOR_PING", "line": "line-A"}
+{"ts": "2026-09-22T08:03:20Z", "label": "VALVE_CLOSE", "line": "line-A"}
+{"ts": "2026-09-22T08:03:50Z", "label": "COOLING_ON", "line": "line-A"}
+{"ts": "2026-09-22T08:04:20Z", "label": "MOTOR_STOP", "line": "line-A"}
+{"ts": "2026-09-22T08:05:00Z", "label": "POWER_OFF", "line": "line-A"}
